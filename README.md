@@ -26,7 +26,7 @@
   * [Imagens](#imagens)
   * [Icones](#icones)
   * [Tipo de fonte](#tipo-de-fonte)
-* [Compartilhe](#compartilhe)
+
 
 # Devchallenge
 Desafio proposto no endereço: https://www.devchallenge.com.br/challenges/5f0b4acaa5fec43156149044/details
