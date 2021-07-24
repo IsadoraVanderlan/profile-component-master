@@ -29,7 +29,7 @@
 * [Compartilhe](#compartilhe)
 
 # Devchallenge
-
+Desafio proposto no endereço: https://www.devchallenge.com.br/challenges/5f0b4acaa5fec43156149044/details
 
 # Desafio
 Seu desafio é criar um componete de um perfil de um usuário! O modelo final está disponível na pasta "design"
